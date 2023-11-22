@@ -1,0 +1,41 @@
+.Auth-form-container {
+    padding-top: 10%;
+}
+
+.Auth-form {
+    width: 620px;
+    box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: -8% auto auto auto;
+    border-radius: 8px;
+    background-color: white;
+}
+
+#first-group{
+   width:220px;
+   justify-content: left;
+   padding-right: 30px
+}
+
+#second-group{
+    width:220px;
+    justify-content: right;
+    
+}
+
+#requirements{
+    font-size: 11px
+}
+
+.Auth-form-content {
+    padding-left: 15%;
+    padding-right: 12%;
+}
+
+.Auth-form-title {
+    text-align: left;
+    padding-left: 35%;
+    font-size: 24px;
+    font-weight: 800;
+}
